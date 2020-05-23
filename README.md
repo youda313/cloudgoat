@@ -222,6 +222,8 @@ Contributions to CloudGoat are greatly appreciated. If you'd like to help make t
 
 And lastly, thank you for contributing!
 
+#Walkthrough in 5 parts
+https://medium.com/@rzepsky/playing-with-cloudgoat-part-1-hacking-aws-ec2-service-for-privilege-escalation-4c42cc83f9da
 ## Changelog
 
 - **6/24/19:** CloudGoat 2.0 is released!
